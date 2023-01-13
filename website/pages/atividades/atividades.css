@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    background: #1d001f;
+    color: #fff;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    min-width: 800px;
+}
+
+
+header {
+    margin-top:10px;
+    padding-bottom:50px;
+    text-align: center;
+}
+
+header a{
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+session {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.title{
+    font-size: 2rem;
+}
+
+.atividade{
+    margin-top: 50px;
+    min-width: 800px;
+    min-height: 300px;
+    border: 2px solid #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.atividade-title{
+    text-align: center;
+    border-bottom: 2px solid #fff;
+}
+
+.atividade-description p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.link{
+    margin-bottom: 20px;
+}
+
+.link a{
+    border: 2px solid #fff;
+    padding: 10px 20px;
+}
+
+.buttons{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
