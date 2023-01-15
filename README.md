@@ -20,3 +20,13 @@
 - Ler os capítulos 0, 1 e 2 do livrotexto da biblioteca Qiskit
 - Escrever um resumo do que foi aprendido com exemplos utilizando a biblioteca
 
+### Atividade 3
+#### Objetivo: Aprender conceitos da computação no livro de Nielsen & Chuang.
+- Ler os capítulos 1 e 2 do livro
+- Escrever um mapa mental do assunto.
+
+### Atividade 4
+#### Objetivo: Revisar e aprofundar conceitos de circuitos quânticos e suas construções.
+- Assistir às aulas oferecidas pelo professor.
+- Aprender a mexer na ferramenta Algassert
+- Criar circuitos que satisfaçam determinadas tabelas de input->output passadas pelo professor.
