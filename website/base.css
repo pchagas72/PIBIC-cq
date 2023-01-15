@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.navbar h1{
+    font-size: 1.5rem;
+}
+
+.navbar a{
+    border: #fff 1px solid;
+    padding: 5px 10px;
+}
+
