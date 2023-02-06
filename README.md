@@ -30,3 +30,8 @@
 - Assistir às aulas oferecidas pelo professor.
 - Aprender a mexer na ferramenta Algassert
 - Criar circuitos que satisfaçam determinadas tabelas de input->output passadas pelo professor.
+
+### Atividade 5
+#### Objetivo: Revisar e aprofundar conceitos de circuitos quânticos e suas construções agora usando a biblioteca Qiskit do Python.
+- Utilizar a biblioteca Qiskit para representar o circuitos da atividade 4.
+- Simular os circuitos feitos na atividade gerando um histograma para cada input da ativdade 4.
