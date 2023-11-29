@@ -35,3 +35,7 @@
 #### Objetivo: Revisar e aprofundar conceitos de circuitos quânticos e suas construções agora usando a biblioteca Qiskit do Python.
 - Utilizar a biblioteca Qiskit para representar o circuitos da atividade 4.
 - Simular os circuitos feitos na atividade gerando um histograma para cada input da ativdade 4.
+
+### Atividade 6
+#### Objetivo: Colocar em prática o modelo de neurônio quântico proposto neste <a href="https://iopscience.iop.org/article/10.1088/2632-2153/abaf98/meta">artigo</a>
+- Utilizar conhecimentos adquiridos ao longo da pesquisa relativos à: redes neurais, computação quântica, programação em python e modelos quânticos para colocar o artigo em prática
